@@ -1,3 +1,3 @@
 # Matlab
 
-### numerical optimization
+### Numerical optimization
